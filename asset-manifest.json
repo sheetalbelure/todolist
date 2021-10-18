@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sheetalbelure/todolist/static/css/main.91d791d2.chunk.css",
+    "main.js": "/sheetalbelure/todolist/static/js/main.c2dd066a.chunk.js",
+    "main.js.map": "/sheetalbelure/todolist/static/js/main.c2dd066a.chunk.js.map",
+    "runtime-main.js": "/sheetalbelure/todolist/static/js/runtime-main.6f58ba6f.js",
+    "runtime-main.js.map": "/sheetalbelure/todolist/static/js/runtime-main.6f58ba6f.js.map",
+    "static/js/2.42261c2b.chunk.js": "/sheetalbelure/todolist/static/js/2.42261c2b.chunk.js",
+    "static/js/2.42261c2b.chunk.js.map": "/sheetalbelure/todolist/static/js/2.42261c2b.chunk.js.map",
+    "static/js/3.a000a95f.chunk.js": "/sheetalbelure/todolist/static/js/3.a000a95f.chunk.js",
+    "static/js/3.a000a95f.chunk.js.map": "/sheetalbelure/todolist/static/js/3.a000a95f.chunk.js.map",
+    "index.html": "/sheetalbelure/todolist/index.html",
+    "static/css/main.91d791d2.chunk.css.map": "/sheetalbelure/todolist/static/css/main.91d791d2.chunk.css.map",
+    "static/js/2.42261c2b.chunk.js.LICENSE.txt": "/sheetalbelure/todolist/static/js/2.42261c2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sheetalbelure/todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f58ba6f.js",
+    "static/js/2.42261c2b.chunk.js",
+    "static/css/main.91d791d2.chunk.css",
+    "static/js/main.c2dd066a.chunk.js"
+  ]
+}
